@@ -1,0 +1,4 @@
+name: GameUtils
+version: ${project.version}
+main: cc.i9mc.gameutils.BungeeGameUtils
+author: JinVan

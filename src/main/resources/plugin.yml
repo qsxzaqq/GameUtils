@@ -1,0 +1,10 @@
+name: GameUtils
+version: ${project.version}
+main: cc.i9mc.gameutils.BukkitGameUtils
+authors: [JinVan]
+depend:
+  - ProtocolLib
+softdepend:
+  - PlaceholderAPI
+commands:
+  gu:
